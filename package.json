@@ -1,0 +1,29 @@
+{
+  "name": "redux-middleware-for-redux-saga",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "latest",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-redux": "6.0.1",
+    "react-scripts": "2.1.8",
+    "redux": "4.0.1",
+    "redux-actions": "latest",
+    "redux-logger": "3.0.6",
+    "redux-pender": "1.2.1",
+    "redux-promise-middleware": "5.1.1",
+    "redux-saga": "0.16.0",
+    "redux-thunk": "2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
